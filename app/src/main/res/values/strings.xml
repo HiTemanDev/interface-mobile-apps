@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Terapi Psikologis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tell_your_feelings">Hai! Aku teman virtualmu yang siap menemani. Ceritakan sedikit tentang apa yang kamu rasakan hari ini ya</string>
+    <string name="send">Kirim</string>
+    <string name="ceritakan">Ceritakan disini!</string>
+    <string name="play_script">Putar terapi</string>
+    <string name="chat_bot">Chat Bot</string>
+    <string name="background_image">Background Image</string>
+    <string name="feedback_header">Feedback Sesi Terapi</string>
+    <string name="feedback_question">Apakah Anda merasa lebih baik setelah sesi ini?</string>
+    <string name="feedback_option_better">Lebih Baik</string>
+    <string name="feedback_option_same">Sama Saja</string>
+    <string name="app_version">Versi 1.0.0</string>
+    <string name="developer_info">Apps developed by: © 2025 Sidqi Amanullah. All rights reserved.</string>
+    <string name="ai_model_info">AI model developed by Capstone Team Laskar AI (ID: LAI25-SM061).</string>
+    <string name="about_additional_info">Terima kasih telah menggunakan aplikasi kami! Kami berkomitmen untuk membantu Anda melalui terapi berbasis AI.</string>
+    <string name="app_logo_description">Logo aplikasi Laskar AI</string>
+    <string name="back_button_description">Tombol kembali</string>
+    <string name="feedback_option_worse">Lebih Buruk</string>
+    <string name="feedback_hint">Komentar tambahan (opsional)</string>
+    <string name="feedback_submit">Kirim Feedback</string>
+    <string name="feedback_error_select_option">Pilih salah satu opsi perasaan!</string>
+</resources>

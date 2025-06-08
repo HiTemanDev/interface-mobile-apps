@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Warna ketika tombol diaktifkan (skrip tersedia) -->
+    <item android:state_enabled="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#34C759" /> <!-- Hijau WhatsApp saat enabled -->
+            <corners android:radius="20dp" />
+            <padding
+                android:left="16dp"
+                android:top="8dp"
+                android:right="16dp"
+                android:bottom="8dp" />
+        </shape>
+    </item>
+    <!-- Warna ketika tombol dinonaktifkan (skrip tidak tersedia) -->
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <solid android:color="#B0BEC5" /> <!-- Abu-abu saat disabled -->
+            <corners android:radius="20dp" />
+            <padding
+                android:left="16dp"
+                android:top="8dp"
+                android:right="16dp"
+                android:bottom="8dp" />
+        </shape>
+    </item>
+    <!-- Default state (jika tidak ada yang cocok) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#B0BEC5" /> <!-- Abu-abu sebagai default -->
+            <corners android:radius="20dp" />
+            <padding
+                android:left="16dp"
+                android:top="8dp"
+                android:right="16dp"
+                android:bottom="8dp" />
+        </shape>
+    </item>
+</selector>

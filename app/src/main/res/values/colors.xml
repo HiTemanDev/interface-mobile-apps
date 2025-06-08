@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary">#EEF1DA</color>
+    <color name="secondary">#5A827E</color>
+    <color name="surface">#5A827E</color>
+    <color name="on_primary">#000000</color> <!-- Warna teks/icon di atas primary -->
+    <color name="on_secondary">#000000</color> <!-- Warna teks/icon di atas secondary -->
+    <color name="primary_variant">#D5E5D5</color>
+    <color name="on_surface">#000000</color> <!-- Warna teks/icon di atas surface -->
+    <color name="background_light">#F5F7FA</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="primary_button">#1976D2</color>
+    <color name="secondary_button">#388E3C</color>
+    <color name="error_text">#D32F2F</color>
+    <color name="color1">#5A827E</color>
+    <color name="color2">#84AE92</color>
+    <color name="color3">#B9D4AA</color>
+    <color name="color4">#FAFFCA</color>
+</resources>
